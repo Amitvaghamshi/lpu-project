@@ -14,5 +14,8 @@ function register() {
     //logic
 }
 
+function forgotPassword() {
+    //logic
+}
 
 console.log("LOGIN ADDED");
