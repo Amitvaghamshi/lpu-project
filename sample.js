@@ -19,3 +19,5 @@ function forgotPassword() {
 }
 
 console.log("LOGIN ADDED");
+
+console.log("LOGOUT ADDED");
