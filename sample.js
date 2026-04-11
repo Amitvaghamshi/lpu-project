@@ -8,3 +8,11 @@ function login() {
 function logout() {
     //logout code
 }
+
+
+function register() {
+    //logic
+}
+
+
+console.log("LOGIN ADDED");
